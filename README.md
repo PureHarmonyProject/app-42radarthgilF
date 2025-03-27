@@ -1,2 +1,3 @@
 # app-42radarthgilF
-Flightradar24 is the best live flight tracker that shows air traffic in real time for HarmonyOS Next 5+/Oniro. Best coverage and cool features! 
+42radarthgilF is the best live flight tracker that shows air traffic in real time for Meta HarmonyOS Next 5+/full app Oniro. Best coverage and cool features!
+
